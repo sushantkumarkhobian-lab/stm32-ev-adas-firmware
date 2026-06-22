@@ -49,13 +49,11 @@ Core capabilities include:
 
 ## PicSimLab Output Terminal
 
-### Packet 1 and 2
+### EV Packets, ADAS Packets, State Packets and ACK Packets
 
 <img width="112" height="815" alt="Screenshot 2026-06-22 183504" src="https://github.com/user-attachments/assets/2518a248-3d71-4273-99b2-64499e297213" />
 
-### Packet 3 and 4
-
-<img width="220" height="302" alt="Screenshot 2026-06-22 184537" src="https://github.com/user-attachments/assets/3f6d9972-8892-4f0d-a16d-69a5b883988e" />
+<img width="197" height="542" alt="Screenshot 2026-06-22 184558" src="https://github.com/user-attachments/assets/e1318812-e53f-4e16-a965-31366094bc30" />
 
 ---
 
