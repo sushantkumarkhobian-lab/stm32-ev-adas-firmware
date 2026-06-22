@@ -1,0 +1,18 @@
+# Block generated build folders
+Debug/
+Release/
+Binaries/
+
+# Block compiled binary outputs
+*.elf
+*.bin
+*.hex
+*.o
+*.su
+*.d
+*.map
+*.list
+*.xml
+
+# Block local IDE display preferences
+.settings/
