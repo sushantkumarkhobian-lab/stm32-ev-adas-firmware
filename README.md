@@ -365,11 +365,11 @@ Visual indicators:
 USART1 Configuration:
 
 ```text
-* **Baud Rate:** 115200 Baud
-* **Data Bits:** 8 Data Bits
-* **Parity:** No Parity
-* **Stop Bits:** 1 Stop Bit
-* **Data Integrity:** Packets 0x01, 0x02, and 0x03 append a calculated **CRC-16** checksum validation payload to ensure robust, error-free serial data framing within the simulation environment.
+Baud Rate: 115200 Baud
+Data Bits: 8 Data Bits
+Parity: No Parity
+Stop Bits: 1 Stop Bit
+Data Integrity: Packets 0x01 and 0x02 append a calculated CRC-16 checksum validation payload to ensure robust, error-free serial data framing within the simulation environment.
 ```
 
 ### Packet 0x01 — EV Metrics
