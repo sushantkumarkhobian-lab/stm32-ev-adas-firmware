@@ -605,4 +605,4 @@ UART Configuration:
 
 # Author
 
-**Sushant Kumar Khobian**
+## Sushant Kumar Khobian
