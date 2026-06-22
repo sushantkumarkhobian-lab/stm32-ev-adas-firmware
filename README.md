@@ -604,4 +604,4 @@ UART Configuration:
 
 # Author
 
-**Sushant Kumar**
+**Sushant Kumar Khobian**
